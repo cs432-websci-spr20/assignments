@@ -41,7 +41,6 @@ Follow the instructions at [github-classroom-for-students](https://github.com/cs
 **Q3.** Answer the following questions:
 * a) What is your GitHub username?
 * b) Accept the GitHub Classroom invitation for HW0.  What is the URL of the generated repo?
-* c) Now that you are a member of the class organization, what other repositories exist in the organization?
 
 ## Markdown
 
