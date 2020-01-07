@@ -1,4 +1,4 @@
-## Homework 1
+## Homework 1 - Web Science Intro
 **Due:** Tuesday, January 28, 2020 *before class*
 
 *This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization.*
