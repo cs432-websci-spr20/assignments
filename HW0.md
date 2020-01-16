@@ -63,7 +63,7 @@ LaTeX is *the* markup language for academic publication. [Overleaf](https://over
 
 Sign up for a free [Overleaf](https://overleaf.com) account.
 
-Walk through [part 1](https://learn.sharelatex.com/learn/Free_online_introduction_to_LaTeX_(part_1)) and [part 2](https://learn.sharelatex.com/learn/Free_online_introduction_to_LaTeX_(part_2)) of this [LaTeX introduction](https://learn.sharelatex.com/learn/Free_online_introduction_to_LaTeX_(part_1)). 
+Walk through [part 1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) and [part 2](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_2)) of this [LaTeX introduction](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)). 
 
 **Q5.** Copy the LaTeX source for your solution to Typesetting Exercise 1 (slide 11) from part 1 of the intro into your report.  Download the generated PDF from Overleaf.  If you are using Markdown, push the generated PDF to your repo and include a link to it in your report. If you are using LaTeX for your report, include the PDF as an image in your report.
 
