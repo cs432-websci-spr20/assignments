@@ -1,6 +1,6 @@
-# Homework 0: Course Setup
-
 *This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization*
+
+# Homework 0: Course Setup
 
 **Due:** Tuesday, January 21, 2020 *before* class 
 
