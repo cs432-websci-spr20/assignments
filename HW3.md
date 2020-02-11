@@ -1,6 +1,6 @@
 *This is the public posting of the assignment. See Piazza or Blackboard for the invite link to make your submission in your own repository in the class organization.*
 
-# Homework 3 - Website Ranking
+# Homework 3 - Ranking Webpages
 **Due:** Tuesday, February 25, 2020 *before class*
 
 ## Assignment
