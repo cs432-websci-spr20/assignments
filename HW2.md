@@ -2,12 +2,12 @@
 *This is the public posting of the assignment. See Piazza or Blackboard for the invite link to make your submission in your own repository in the class organization.*
 
 
-## Homework 2 - Web Archiving
+# Homework 2 - Web Archiving
 **Due:** Tuesday, February 18, 2020 *before class* 
 
 ***Important: Q1 requires obtaining a Twitter Developer Account.  This may take a day or two, so figure out what needs to be done today!***
 
-### Assignment
+## Assignment
 
 Write a report that answers the following questions.  Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment.
 
@@ -74,7 +74,7 @@ For URIs that have > 0 mementos and an estimated creation date, create a graph w
 mementos on the y-axis.
 
     
-### Submission
+## Submission
 
 Make sure that you have committed and pushed your local repo to GitHub.  
 
