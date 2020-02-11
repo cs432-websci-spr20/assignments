@@ -1,9 +1,9 @@
 *This is the public posting of the assignment. See Piazza or Blackboard for the invite link to make your submission in your own repository in the class organization.*
 
-## Homework 1 - Web Science Intro
+# Homework 1 - Web Science Intro
 **Due:** Tuesday, January 28, 2020 *before class*
 
-### Assignment
+## Assignment
 
 Write a report that contains the answers to the following questions. (When you include an image in your report, *do not change the [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio_(image)) of the image*. If you have trouble with this, ask for help in our Piazza group.)
 
@@ -55,7 +55,7 @@ For the above graph, give the values for
 * Tubes: 
 * Disconnected:
     
-### Submission
+## Submission
 
 Make sure that you have committed and pushed your local repo to GitHub.  You should be using GitHub version control as you develop your solutions, so your repo should contain any code you developed to answer the questions.
 
