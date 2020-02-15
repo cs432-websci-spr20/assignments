@@ -1,4 +1,4 @@
-*This is the public posting of the assignment. See Piazza or Blackboard for the invite link to make your submission in your own repository in the class organization.*
+*This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization.*
 
 # Homework 4 - Exploring Social Networks
 **Due:** Tuesday, March 3, 2020 *before class*
