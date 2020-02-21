@@ -9,3 +9,5 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 [HW2](HW2.md) - Web Archiving (due Feb 18, Week 6)
 
 [HW3](HW3.md) - Website Ranking (due Feb 25, Week 7)
+
+[HW4](HW4.md) - Exploring Social Networks (due Mar 3, Week 8)
