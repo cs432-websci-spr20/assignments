@@ -11,3 +11,5 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 [HW3](HW3.md) - Website Ranking (due Feb 25, Week 7)
 
 [HW4](HW4.md) - Exploring Social Networks (due Mar 3, Week 8)
+
+[HW5](HW5.md) - Graph Partitioning (due Mar 24 at 11:59pm, Week 9)
