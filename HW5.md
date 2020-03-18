@@ -1,7 +1,7 @@
 *This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization.*
 
 # Homework 5 - Graph Partitioning
-**Due:** Thursday, March 19, 2020 *before class*
+**Due:** Tuesday, March 24, 2020 *by 11:59pm*
 
 ## Assignment 
 
