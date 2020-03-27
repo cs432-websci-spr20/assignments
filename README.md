@@ -15,3 +15,5 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 [HW5](HW5.md) - Graph Partitioning (due Mar 24 at 11:59pm, Week 9)
 
 [HW6](HW6.md) - Recommendation Systems (due Mar 31 at 11:59pm, Week 10)
+
+[HW7](HW7.md) - Clustering (due Apr 9 at 11:59pm, Week 11)
