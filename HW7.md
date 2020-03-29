@@ -31,7 +31,7 @@ Save the matrix in a text file (either tab-separated like blogdata.txt or comma-
 
 **Q3.**  Create an ASCII dendrogram and a JPEG dendrogram that uses hierarchical clustering to cluster the most similar accounts (see slides 21 & 23 - Week 10).  Include the JPEG in your report and upload the ASCII file to GitHub (it will be too unwieldy for inclusion in the report).
 
-**Q4.**  Cluster the accounts using k-Means, using *k*=5,10,20 (see slide XX - Week 10).  Print the accounts in each cluster, for each value of *k*.  How many iterations were required for each value of *k*?
+**Q4.**  Cluster the accounts using k-Means, using *k*=5,10,20 (see slide 37 - Week 10).  Print the accounts in each cluster, for each value of *k*.  How many iterations were required for each value of *k*?
 
 **Q5.**  Use MDS to create a JPEG of the accounts (see slide 50 - Week 10).  Include the JPEG in your report. How many iterations were required?
 
