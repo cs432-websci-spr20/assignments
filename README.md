@@ -17,3 +17,5 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 [HW6](HW6.md) - Recommendation Systems (due Mar 31 at 11:59pm, Week 10)
 
 [HW7](HW7.md) - Clustering (due Apr 9 at 11:59pm, Week 11)
+
+[HW8](HW8.md) - Spam Classification (due Apr 16 at 11:59pm, Week 12)
