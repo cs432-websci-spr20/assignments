@@ -1,3 +1,5 @@
+*This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization.*
+
 # Homework 9 - k-Nearest Neighbors (kNN)
 **Due:** Thursday, April 23, 2020 by 11:59pm
 
