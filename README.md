@@ -19,3 +19,7 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 [HW7](HW7.md) - Clustering (due Apr 9 at 11:59pm, Week 11)
 
 [HW8](HW8.md) - Spam Classification (due Apr 16 at 11:59pm, Week 12)
+
+[HW9](HW9.md) - k-Nearest Neighbors (kNN) (due Apr 23 at 11:59pm, Week 13)
+
+[HW10](HW10.md) - *Extra Credit*  Analyzing Disinformation Domains (due May 5 at 3:30pm)
